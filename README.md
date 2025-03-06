@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhoomi-16
 - 👀 I’m interested in ... FullStack java devloper
-- 🌱 I’m currently learning ... SpringBoot
+- 🌱 I’m currently learning ... SpringBoot and react
 
 
 <!---
